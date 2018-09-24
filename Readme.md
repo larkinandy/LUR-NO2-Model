@@ -1,6 +1,4 @@
-# LUR-NO2-Model #
-
-Create a global land use regression (LUR) model for near surface NO2 concentrations 
+![GitHub Logo](/GlobalLUR.jpg)
 
 **Author:** [Andrew Larkin](https://www.linkedin.com/in/andrew-larkin-525ba3b5/) <br>
 **Affiliation:** [Oregon State University, College of Public Health and Human Sciences](https://health.oregonstate.edu/) <br>
