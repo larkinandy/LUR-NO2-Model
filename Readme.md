@@ -5,10 +5,10 @@
 **Principal Investigator:** [Perry Hystad](https://health.oregonstate.edu/people/perry-hystad) <br>
 **Date last modified:** September 23rd, 2018
 
-**Summary:** <br>
+**Summary** <br>
 This github repository contains the scripts used to create a global NO2 land use regression model. Land use estimates were derived using python and ArcGIS.  Variable selection and model development were developed using R Studio.
 
-**Repository Structure:** <br>
+**Repository Structure** <br>
 Files are divided into three folders, with each folder corresponding to a unique stage of model development.
 
 - **[variable estimates](https://github.com/larkinandy/LUR-NO2-Model/tree/master/variable%20estimates)** - scripts in this folder were used to derive NO2 estiamtes at air monitor locations using parallel processing. <br>
